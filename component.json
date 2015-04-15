@@ -1,0 +1,9 @@
+{
+    "repos": "https://github.com/nicinabox/superslides.git",
+    "version": "0.6.2",
+    "name": "jquery-superslides",
+    "main": "jquery.superslides.js",
+    "dependencies": [
+        "jquery"
+    ]
+}
